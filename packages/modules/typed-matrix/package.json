@@ -1,6 +1,6 @@
 {
   "name": "@zikojs/typed-matrix",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A collection of easing functions for animations, transitions, interpolation, and motion-based effects.",
   "keywords": [
     "zikojs",
@@ -19,14 +19,14 @@
     "url": "git+https://github.com/zikojs/numz.git",
     "directory": "packages/modules/typed-matrix"
   },
-  "exports":{
-    ".":{
-      "import" : "./src/index.js",
-      "types" : "./src/index.d.ts"
+  "exports": {
+    ".": {
+      "import": "./src/index.js",
+      "types": "./src/index.d.ts"
     },
-    "./*":{
-      "import" : "./src/*/index.js",
-      "types" : "./src/*/index.d.ts"
+    "./*": {
+      "import": "./src/*/index.js",
+      "types": "./src/*/index.d.ts"
     }
   },
   "license": "MIT",
