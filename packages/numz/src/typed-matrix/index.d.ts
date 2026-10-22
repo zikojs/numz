@@ -1,0 +1,1 @@
+export type * from '@zikojs/typed-matrix'

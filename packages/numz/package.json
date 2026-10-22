@@ -35,6 +35,17 @@
     "vitest": "catalog:"
   },
   "dependencies": {
-    "ziko": "catalog:"
+    "ziko": "catalog:",
+    "@zikojs/ufunc": "workspace:*",
+    "@zikojs/complex": "workspace:*",
+    "@zikojs/matrix": "workspace:*",
+    "@zikojs/typed-matrix": "workspace:*",
+    "@zikojs/random": "workspace:*",
+    "@zikojs/signal": "workspace:*",
+    "@zikojs/ease": "workspace:*",
+    "@zikojs/lp": "workspace:*",
+    "@zikojs/stats": "workspace:*",
+    "@zikojs/calculus": "workspace:*",
+    "@zikojs/discret": "workspace:*"
   }
 }

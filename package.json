@@ -1,7 +1,7 @@
 {
   "name": "numz-root",
   "version": "1.0.0",
-  "private":"true",
+  "private": true,
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,9 +9,5 @@
   "keywords": [],
   "author": "zakaria elalaoui",
   "license": "MIT",
-  "type": "module",
-  "dependencies": {
-    "vitest": "^5.0.0",
-    "ziko": "catalog:"
-  }
+  "type": "module"
 }

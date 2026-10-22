@@ -1,5 +1,6 @@
 packages:
   - "packages/*"
+  - "packages/modules/*"
   - "packages/*/test"
   - "demo/"
 
@@ -8,5 +9,5 @@ allowBuilds:
 
 # Define a catalog of version ranges.
 catalog:
-  ziko: 2.0.0-beta.10
+  ziko: latest
   vitest: latest
